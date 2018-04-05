@@ -1,0 +1,6 @@
+name "libetpan"
+description "Libetpan binding for IMAP"
+authors "Laeeth Isharc"
+copyright "Copyright © 2018, Laeeth Isharc"
+license "proprietary"
+libs "etpan"
